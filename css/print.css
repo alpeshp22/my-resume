@@ -167,7 +167,8 @@ i {
     border: 0;
 }
 
-.job::before {
+.job::before,
+.job::after {
     display: none;
 }
 
