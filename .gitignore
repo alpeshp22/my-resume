@@ -416,3 +416,6 @@ FodyWeavers.xsd
 *.msix
 *.msm
 *.msp
+
+# Keep the previous live version of the resume in the repo
+!backup-live-2025/
